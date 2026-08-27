@@ -2,7 +2,7 @@
 
 Mobile and game developer building practical tools, polished interfaces, and small interactive experiences.
 
-![Banner](./banner-figma.png)
+![Banner](./banner-personal.png)
 
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/denatril)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguzhanocakoglu)
