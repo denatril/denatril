@@ -43,7 +43,7 @@ Building, learning, and shipping one project at a time.
 
 <p>
   <img alt="HTML5" src="https://cdn.simpleicons.org/html5/E34F26" width="28" height="28" />
-  <img alt="CSS3" src="https://cdn.simpleicons.org/css3/1572B6" width="28" height="28" />
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" />
   <img alt="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28" height="28" />
   <img alt="TypeScript" src="https://cdn.simpleicons.org/typescript/3178C6" width="28" height="28" />
   <img alt="React" src="https://cdn.simpleicons.org/react/61DAFB" width="28" height="28" />
