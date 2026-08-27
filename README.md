@@ -1,10 +1,10 @@
 # denatril
 
-Mobile and game developer focused on building practical tools, polished interfaces, and small interactive experiences.
+Mobile and game developer building practical tools, polished interfaces, and small interactive experiences.
 
 <img src="https://github-readme-widget-eta.vercel.app/api/pet" alt="GitHub profile pet widget" />
 
-## Current Focus
+## What I Work On
 
 - Mobile development
 - Game development
@@ -12,11 +12,11 @@ Mobile and game developer focused on building practical tools, polished interfac
 - Unity
 - C#
 
-## Projects
+## Recent Work
 
-- Building small apps that feel usable from day one
-- Improving game and mobile workflows with simple tools
-- Experimenting with interactive UI and lightweight automation
+- Small apps that feel usable from day one
+- Tools that make game and mobile workflows simpler
+- Interactive UI and lightweight automation experiments
 
 ## Skills
 
