@@ -1,0 +1,10 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="180" rx="24" fill="#0B1220"/>
+  <rect x="24" y="24" width="1152" height="132" rx="18" fill="#111827"/>
+  <path d="M60 120C120 88 186 88 246 120C306 152 372 152 432 120C492 88 558 88 618 120C678 152 744 152 804 120C864 88 930 88 990 120C1050 152 1116 152 1176 120" stroke="#22C55E" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="96" cy="58" r="8" fill="#22C55E"/>
+  <circle cx="132" cy="58" r="8" fill="#38BDF8"/>
+  <circle cx="168" cy="58" r="8" fill="#A855F7"/>
+  <text x="70" y="92" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">Building useful things</text>
+  <text x="70" y="126" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="500">Mobile, game, and interface work with a clean finish.</text>
+</svg>
